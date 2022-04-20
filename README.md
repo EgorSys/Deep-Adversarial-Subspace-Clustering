@@ -1,4 +1,3 @@
 # Deep-Adversarial-Subspace-Clustering
-A university project
-(work in progress)
-Project will be complete by June
+A university project\n
+(work in progress), roject will be complete by June
